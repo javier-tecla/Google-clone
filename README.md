@@ -1,3 +1,3 @@
 # Google-clone
 
-https://javier-tecla.github.io/Google-clone/
+https://google-clone-javier-tecla.netlify.app/
